@@ -8,12 +8,12 @@ Include in .html file:
 
 Stylesheet
 ```HTML
-<link rel="stylesheet" href="DTslider3D/DTslider.css">
+<link rel="stylesheet" href="DTslider.css">
 ```
 Scripts:
 ```HTML
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="DTslider3D/DTslider.js"></script>
+<script src="DTslider.js"></script>
 ```
 Slider container:
 ```HTML
